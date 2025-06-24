@@ -16,7 +16,7 @@ const Header = () => {
           <div className="flex items-center space-x-2">
             <Icon name="Truck" className="h-8 w-8 text-primary" />
             <span className="text-2xl font-bold text-logistics-gray-900">
-              RU-TR Logistics
+              Illidium
             </span>
           </div>
 
